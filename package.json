@@ -30,7 +30,7 @@
     "dependencies": {
         "@chenfengyuan/vue-barcode": "^1.0.0",
         "bootstrap-vue": "^2.0.0-rc.25",
-        "chart.js": "^2.8.0",
+        "chart.js": "^2.9.4",
         "chartkick": "^3.1.0",
         "moment": "^2.24.0",
         "pug": "^2.0.4",
