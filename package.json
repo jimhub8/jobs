@@ -32,7 +32,7 @@
         "bootstrap-vue": "^2.0.0-rc.25",
         "chart.js": "^2.8.0",
         "chartkick": "^3.1.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "pug": "^2.0.4",
         "read-excel-file": "^4.0.1",
         "vue-chartjs": "^3.4.0",
